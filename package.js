@@ -1,5 +1,5 @@
 Package.describe({
-  summary:"noty 2.2.4"
+  summary:"noty 2.2.2"
 });
 
 Package.on_use(function(api){
