@@ -10,7 +10,7 @@ Examples and documentation at <http://github.com/needim/noty>
 
 ## Install Manually
 
-- From with your project `packages/` folder.
+- From within your project `packages/` folder.
 - Clone the repo: `git clone https://github.com/tabruhn/meteor-noty.git`.
 - Rename for less redundancy `mv meteor-noty/ noty/`
 - `mrt add noty`
