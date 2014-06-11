@@ -8,6 +8,19 @@ Nedim Arabacı(<http://github.com/needim>). For more information
  take a look at the official documentation: <http://ned.im/noty>.
 Examples and documentation at <http://github.com/needim/noty>
 
+## Install Manually
+
+- From with your project `packages/` folder.
+- Clone the repo: `git clone https://github.com/tabruhn/meteor-noty.git`.
+- Rename for less redundancy `mv meteor-noty/ noty/`
+- `mrt add noty`
+
+## Example noty
+
+- Start your meteor project and open up the browser console from your
+  page.
+- Execute the command `noty({text: 'noty noty noty!'});`
+
 ## TODO
 
 Example
