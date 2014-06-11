@@ -1,0 +1,11 @@
+{
+    "name":"noty",
+    "description":"noty wrapper for Meteor. noty is a jQuery plugin which makes it easy to post messages and notifications to the browser window. For more check out ned.im/noty/",
+    "homepage":"https://github.com/tabruhn/meteor-noty",
+    "author":"Nedim Arabaci (noty-2.2.4), Tyson Bruhn (Meteor wrapper)"
+    "version":"2.2.4",
+    "git":"https://github.com/tabruhn/meteor-noty.git",
+    "packages":{
+    }
+}
+
